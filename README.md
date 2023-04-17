@@ -18,7 +18,7 @@ If you want to access code from on here, you may have to download or clone the e
 
 You will also want to install tesseract to your PC before you get started. And make sure that you've double checked the install directory. I read in a couple of places that it's best not to change the base install directory when performing this installation (Which goes to `'C:/Program Files/Tesseract/...'`). I'm brave, but when it comes to randomly breaking breaking dependencies and then not being able to find them on the nightmare that is my code drive, I'd really rather not deal with that. If you want to install it somewhere else, go for it! (This tangent tho wtf)
 
-Another error that I made (possibly due to inexperience) is that when setting the tesseract_cmd, make sure to use:
+Another error that I made (and one that you can avoid) is that when setting the tesseract_cmd, make sure to use:
 `pytesseract.tesseract_cmd = path_to_tesseract_executable` instead of `pytesseract.tesseract_cmd(path_to_tesseract_executable)`, which is an error that took me far too long to identify.
 
 More stuff to come as I add more content to this repo.
