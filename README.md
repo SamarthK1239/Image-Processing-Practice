@@ -3,7 +3,7 @@
 A repo to help me figure out how to use PyTesseract and Pillow with python. Intended as an addon to my other project, which was experimenting with OpenAI's public API. In the interest of not cluttering up that repo, I'm developing these features independently and will then merge them whenever.
 
 ## What you need
-- A computer that can run an IDE (not optional)
+- A computer that can run an IDE (not optional, we're not writing code in notepad)
 - PyCharm community or ultimate (optional only if you're crazy, yes I will fight you over this)
 - The PyTesseract installer. I'm using this link since I'm developing on Windows: <https://github.com/UB-Mannheim/tesseract/wiki>
 - Patience (optional, but preferred)
