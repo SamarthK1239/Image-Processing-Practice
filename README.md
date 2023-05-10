@@ -11,6 +11,7 @@ A repo to help me figure out how to use PyTesseract and Pillow with python. Inte
 ## What's here so far
 (This list will grow)
 - A simple program that takes images and extracts and prints text from them
+- Some image preprocessing code
 - Your mum
 
 ## How to use this stuff
